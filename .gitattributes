@@ -1,0 +1,5 @@
+*.py linguist-language=Python
+*.sh linguist-detectable=false
+README.md linguist-detectable=false
+LICENSE linguist-detectable=false
+
