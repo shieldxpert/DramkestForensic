@@ -1,12 +1,3 @@
-  ____                      _             _   _____                        _      
- |  _ \ _ __ __ _ _ __ ___ | | _____  ___| |_|  ___|__  _ __ ___ _ __  ___(_) ___ 
- | | | | '__/ _` | '_ ` _ \| |/ / _ \/ __| __| |_ / _ \| '__/ _ \ '_ \/ __| |/ __|
- | |_| | | | (_| | | | | | |   <  __/\__ \ |_|  _| (_) | | |  __/ | | \__ \ | (__ 
- |____/|_|  \__,_|_| |_| |_|_|\_\___||___/\__|_|  \___/|_|  \___|_| |_|___/_|\___|
-                                                                                  
-                                                                                                                                  
-                                                                                   
-                                                                                   
 
 **DramkestForensic** es un **toolkit forense en Bash/CLI** creado por **Shieldxpert**. Proporciona un conjunto de utilidades que facilitan el análisis forense directamente desde la terminal, con generación automática de informes.
 
