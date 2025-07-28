@@ -1,4 +1,10 @@
 
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat)
+![Version](https://img.shields.io/badge/version-v1.0-orange?style=flat)
+![Status](https://img.shields.io/badge/status-active-success?style=flat)
+![Platform](https://img.shields.io/badge/platform-Linux-lightgrey?style=flat)
+![Author](https://img.shields.io/badge/author-ShieldXpert-black?style=flat)
+
 **DramkestForensic** es un **toolkit forense en Bash/CLI** creado por **Shieldxpert**. Proporciona un conjunto de utilidades que facilitan el análisis forense directamente desde la terminal, con generación automática de informes.
 
 ---
